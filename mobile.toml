@@ -1,0 +1,5 @@
+[app]
+name = "minimal-vello-glitch-example"
+stylized-name = "Minimal Vello Glitch Example"
+identifier = "iotaxsk.apps.velloglitch"
+template-pack = "wgpu"
